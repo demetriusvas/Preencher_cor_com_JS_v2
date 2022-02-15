@@ -1,0 +1,10 @@
+body {
+    font-family: 'Roboto', sans-serif;
+}
+
+.container {
+    background-color: whitesmoke;
+    border-radius: 10px;
+    max-width: 800px;
+}
+
