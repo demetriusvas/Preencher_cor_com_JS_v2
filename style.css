@@ -8,3 +8,8 @@ body {
     max-width: 800px;
 }
 
+.quadrado {
+    background: darkcyan; 
+    height: 150px; 
+    width: 150px;
+}
